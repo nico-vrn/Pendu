@@ -1,4 +1,4 @@
-# jeu du pendu en Python
+# Jeu du pendu en Python
 # Introduction
 Le jeu du pendu est un jeu de devinette où l'utilisateur doit trouver un mot en devinant les lettres qui le composent.
 
